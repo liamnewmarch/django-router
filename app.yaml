@@ -1,0 +1,6 @@
+runtime: python311
+
+handlers:
+  - url: .*
+    script: auto
+    secure: always
